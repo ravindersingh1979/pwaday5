@@ -1,0 +1,17 @@
+{
+  "name": "intro-to-pwa",
+  "version": "1.0.0",
+  "description": "basics of pwa.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [
+    "pwa"
+  ],
+  "author": "Ravinder Singh",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
